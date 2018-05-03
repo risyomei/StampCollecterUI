@@ -1,0 +1,34 @@
+<Solution>
+  <PropertyGroup Name="StampCollectorUI" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="stamps">
+          <Image Name="stamp0.png" />
+          <Image Name="stamp1.png" />
+          <Image Name="stamp2.png" />
+          <Image Name="stamp3.png" />
+        </Folder>
+        <Folder Name="UI">
+          <Image Name="cancel_0.png" />
+          <Image Name="cancel_1.png" />
+          <Image Name="cancel_3.png" />
+          <Image Name="heart_0.png" />
+          <Image Name="heart_1.png" />
+          <Image Name="heart_3.png" />
+          <Image Name="money.png" />
+          <Image Name="reload_0.png" />
+          <Image Name="reload_1.png" />
+          <Image Name="reload_3.png" />
+          <Image Name="stamp_0.png" />
+          <Image Name="stamp_1.png" />
+          <Image Name="star_0.png" />
+          <Image Name="star_1.png" />
+          <Image Name="star_3.png" />
+        </Folder>
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Project Name="StakeHolder.csd" Type="Node" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
